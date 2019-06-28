@@ -1,0 +1,7 @@
+C:\Users\Kysol\Documents\C#\Dokumenty\Dokumenty\bin\Debug\Dokumenty.exe.config
+C:\Users\Kysol\Documents\C#\Dokumenty\Dokumenty\bin\Debug\Dokumenty.exe
+C:\Users\Kysol\Documents\C#\Dokumenty\Dokumenty\bin\Debug\Dokumenty.pdb
+C:\Users\Kysol\Documents\C#\Dokumenty\Dokumenty\obj\Debug\Dokumenty.csprojAssemblyReference.cache
+C:\Users\Kysol\Documents\C#\Dokumenty\Dokumenty\obj\Debug\Dokumenty.csproj.CoreCompileInputs.cache
+C:\Users\Kysol\Documents\C#\Dokumenty\Dokumenty\obj\Debug\Dokumenty.exe
+C:\Users\Kysol\Documents\C#\Dokumenty\Dokumenty\obj\Debug\Dokumenty.pdb
