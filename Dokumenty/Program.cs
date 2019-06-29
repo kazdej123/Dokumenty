@@ -1,16 +1,17 @@
-﻿namespace Documents
+﻿using System;
+
+namespace Dokumenty
 {
-	sealed class Program
+	internal sealed class Program
 	{
 		private static void Main(string[] args)
 		{
-			object documents = new System.Object();
-			PrintDocuments(documents);
-		}
+			var listaDokumentow = new System.Collections.Generic.List<Dokument>();
 
-		private static void PrintDocuments(object documents)
-		{
-			throw new System.NotImplementedException();
+			foreach (var dokument in listaDokumentow) {
+				Console.WriteLine(dokument.ToString());
+			}
+			_ = Console.Read();
 		}
 	}
 }

@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JPK>
+  <Naglowek>
+    <KodFormularza kodSystemowy="JPK_VAT (2)" wersjaSchemy="1-0">JPK_VAT</KodFormularza>
+    <WariantFormularza>2</WariantFormularza>
+    <CelZlozenia>1</CelZlozenia>
+    <DataWytworzeniaJPK>2018-02-03T09:57:45</DataWytworzeniaJPK>
+    <DataOd>2018-01-01</DataOd>
+    <DataDo>2018-01-31</DataDo>
+    <DomyslnyKodWaluty>PLN</DomyslnyKodWaluty>
+    <KodUrzedu></KodUrzedu>
+  </Naglowek>
+  <Podmiot1>
+    <IdentyfikatorPodmiotu>
+      <NIP></NIP>
+      <PelnaNazwa></PelnaNazwa>
+    </IdentyfikatorPodmiotu>
+    <AdresPodmiotu>
+      <KodKraju>PL</KodKraju>
+      <Ulica></Ulica>
+      <Miejscowosc>Toruń</Miejscowosc>
+      <KodPocztowy>87-100</KodPocztowy>
+    </AdresPodmiotu>
+  </Podmiot1>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>1</LpSprzedazy>
+    <NrKontrahenta>1019433350</NrKontrahenta>
+    <NazwaKontrahenta>dnplrxfo.n4b</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 46/48 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>1/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-02</DataWystawienia>
+    <DataSprzedazy>2018-01-02</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>2</LpSprzedazy>
+    <NrKontrahenta>6280938710</NrKontrahenta>
+    <NazwaKontrahenta>13d1fmsn.z0i</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 6B 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>2/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-02</DataWystawienia>
+    <DataSprzedazy>2018-01-02</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>125.2</K_19>
+    <K_20>28.8</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>3</LpSprzedazy>
+    <NrKontrahenta>6607516275</NrKontrahenta>
+    <NazwaKontrahenta>a2fpobmb.y5c</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 3C 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>3/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-02</DataWystawienia>
+    <DataSprzedazy>2018-01-02</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>4</LpSprzedazy>
+    <NrKontrahenta>3000122742</NrKontrahenta>
+    <NazwaKontrahenta>elud12oo.jrm</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 2/4 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>4/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-03</DataWystawienia>
+    <DataSprzedazy>2018-01-03</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>40.65</K_19>
+    <K_20>9.35</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>5</LpSprzedazy>
+    <NrKontrahenta>8528923036</NrKontrahenta>
+    <NazwaKontrahenta>zsh02eus.mvk</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 45 87152 Łubianka</AdresKontrahenta>
+    <DowodSprzedazy>5/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-03</DataWystawienia>
+    <DataSprzedazy>2018-01-03</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>7</LpSprzedazy>
+    <NrKontrahenta>7828186352</NrKontrahenta>
+    <NazwaKontrahenta>wn2kngtg.eyk</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 34 60688 Poznań</AdresKontrahenta>
+    <DowodSprzedazy>7/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-04</DataWystawienia>
+    <DataSprzedazy>2018-01-04</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>32.52</K_19>
+    <K_20>7.48</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>8</LpSprzedazy>
+    <NrKontrahenta>1734151547</NrKontrahenta>
+    <NazwaKontrahenta>jfuecldb.kno</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 7 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>8/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-04</DataWystawienia>
+    <DataSprzedazy>2018-01-04</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>28.46</K_19>
+    <K_20>6.55</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>9</LpSprzedazy>
+    <NrKontrahenta>9649283395</NrKontrahenta>
+    <NazwaKontrahenta>5y2xmbka.j12</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 53B 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>9/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-05</DataWystawienia>
+    <DataSprzedazy>2018-01-05</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>70.73</K_19>
+    <K_20>16.27</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>10</LpSprzedazy>
+    <NrKontrahenta>1090623829</NrKontrahenta>
+    <NazwaKontrahenta>hc4yham5.tii</NazwaKontrahenta>
+    <AdresKontrahenta> XX 87640 Wygoda</AdresKontrahenta>
+    <DowodSprzedazy>10/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-05</DataWystawienia>
+    <DataSprzedazy>2018-01-05</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>48.78</K_19>
+    <K_20>11.22</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>11</LpSprzedazy>
+    <NrKontrahenta>7344829000</NrKontrahenta>
+    <NazwaKontrahenta>lo42zlyq.ldq</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 1C 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>11/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-05</DataWystawienia>
+    <DataSprzedazy>2018-01-05</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>48.78</K_19>
+    <K_20>11.22</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>12</LpSprzedazy>
+    <NrKontrahenta>8003331588</NrKontrahenta>
+    <NazwaKontrahenta>bxfojjw0.nev</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 59 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>12/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-08</DataWystawienia>
+    <DataSprzedazy>2018-01-08</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>108.94</K_19>
+    <K_20>25.06</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>13</LpSprzedazy>
+    <NrKontrahenta>9075398797</NrKontrahenta>
+    <NazwaKontrahenta>uutmii0c.fvm</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Krucza 8 01793 Warszawa</AdresKontrahenta>
+    <DowodSprzedazy>13/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-09</DataWystawienia>
+    <DataSprzedazy>2018-01-09</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>14</LpSprzedazy>
+    <NrKontrahenta>1653520991</NrKontrahenta>
+    <NazwaKontrahenta>iutnt3ok.hq3</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 26 87152 Łubianka</AdresKontrahenta>
+    <DowodSprzedazy>14/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-09</DataWystawienia>
+    <DataSprzedazy>2018-01-09</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>40.65</K_19>
+    <K_20>9.35</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>16</LpSprzedazy>
+    <NrKontrahenta>4979696792</NrKontrahenta>
+    <NazwaKontrahenta>god4cu4h.1uy</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 13 87148 Papowo Toruńskie</AdresKontrahenta>
+    <DowodSprzedazy>16/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-09</DataWystawienia>
+    <DataSprzedazy>2018-01-09</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>28.46</K_19>
+    <K_20>6.55</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>18</LpSprzedazy>
+    <NrKontrahenta>4024340842</NrKontrahenta>
+    <NazwaKontrahenta>04ntzx5g.v3v</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 107 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>18/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-10</DataWystawienia>
+    <DataSprzedazy>2018-01-10</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>62.6</K_19>
+    <K_20>14.4</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>19</LpSprzedazy>
+    <NrKontrahenta>1222225209</NrKontrahenta>
+    <NazwaKontrahenta>j4svg2dt.d2c</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 11 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>19/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-10</DataWystawienia>
+    <DataSprzedazy>2018-01-10</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>28.46</K_19>
+    <K_20>6.55</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>20</LpSprzedazy>
+    <NrKontrahenta>2359783049</NrKontrahenta>
+    <NazwaKontrahenta>cfp2x5kd.2fk</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Krucza 7 80180 Gdańsk</AdresKontrahenta>
+    <DowodSprzedazy>20/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-10</DataWystawienia>
+    <DataSprzedazy>2018-01-10</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>21</LpSprzedazy>
+    <NrKontrahenta>1033238154</NrKontrahenta>
+    <NazwaKontrahenta>5b5celt0.lq2</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 28 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>21/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-10</DataWystawienia>
+    <DataSprzedazy>2018-01-10</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>78.86</K_19>
+    <K_20>18.14</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>23</LpSprzedazy>
+    <NrKontrahenta>3344727308</NrKontrahenta>
+    <NazwaKontrahenta>ebqfsxww.puu</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 7 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>23/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-11</DataWystawienia>
+    <DataSprzedazy>2018-01-11</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>32.52</K_19>
+    <K_20>7.48</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>24</LpSprzedazy>
+    <NrKontrahenta>4079014418</NrKontrahenta>
+    <NazwaKontrahenta>r43jtviz.l4z</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 41/47 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>24/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-12</DataWystawienia>
+    <DataSprzedazy>2018-01-12</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>32.52</K_19>
+    <K_20>7.48</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>25</LpSprzedazy>
+    <NrKontrahenta>6343305979</NrKontrahenta>
+    <NazwaKontrahenta>ionzhcj2.vda</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 35 87700 Aleksandrów Kujawski</AdresKontrahenta>
+    <DowodSprzedazy>25/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-12</DataWystawienia>
+    <DataSprzedazy>2018-01-12</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>28.46</K_19>
+    <K_20>6.55</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>26</LpSprzedazy>
+    <NrKontrahenta>8271811393</NrKontrahenta>
+    <NazwaKontrahenta>i4ikh4ps.0yw</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 2 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>26/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-13</DataWystawienia>
+    <DataSprzedazy>2018-01-13</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>56.91</K_19>
+    <K_20>13.09</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>27</LpSprzedazy>
+    <NrKontrahenta>0364157697</NrKontrahenta>
+    <NazwaKontrahenta>3l4siubt.zly</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Krucza 14 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>27/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-13</DataWystawienia>
+    <DataSprzedazy>2018-01-13</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>28</LpSprzedazy>
+    <NrKontrahenta>1647929084</NrKontrahenta>
+    <NazwaKontrahenta>4c5qsdyd.wgv</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 27 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>28/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-13</DataWystawienia>
+    <DataSprzedazy>2018-01-13</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>28.46</K_19>
+    <K_20>6.55</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>29</LpSprzedazy>
+    <NrKontrahenta>5324504670</NrKontrahenta>
+    <NazwaKontrahenta>ok1vf1lr.5n0</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 4 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>29/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-13</DataWystawienia>
+    <DataSprzedazy>2018-01-13</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>70.73</K_19>
+    <K_20>16.27</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>30</LpSprzedazy>
+    <NrKontrahenta>8348750037</NrKontrahenta>
+    <NazwaKontrahenta>sid0xtlg.k5d</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Krucza 53 80350 Gdańsk</AdresKontrahenta>
+    <DowodSprzedazy>30/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-13</DataWystawienia>
+    <DataSprzedazy>2018-01-13</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>32</LpSprzedazy>
+    <NrKontrahenta>0956848385</NrKontrahenta>
+    <NazwaKontrahenta>qmpg2ef4.jo3</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 23A 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>32/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-15</DataWystawienia>
+    <DataSprzedazy>2018-01-15</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>56.91</K_19>
+    <K_20>13.09</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>33</LpSprzedazy>
+    <NrKontrahenta>3344556471</NrKontrahenta>
+    <NazwaKontrahenta>31pexzh5.bka</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Krucza 95E 20706 Lublin</AdresKontrahenta>
+    <DowodSprzedazy>33/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-16</DataWystawienia>
+    <DataSprzedazy>2018-01-16</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>162.6</K_19>
+    <K_20>37.4</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>34</LpSprzedazy>
+    <NrKontrahenta>8652065026</NrKontrahenta>
+    <NazwaKontrahenta>lbfu1du0.tnj</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 7 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>34/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-17</DataWystawienia>
+    <DataSprzedazy>2018-01-17</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>32.52</K_19>
+    <K_20>7.48</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>35</LpSprzedazy>
+    <NrKontrahenta>6707644935</NrKontrahenta>
+    <NazwaKontrahenta>2au4i01f.pv0</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 5 87213 Ryńsk</AdresKontrahenta>
+    <DowodSprzedazy>35/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-18</DataWystawienia>
+    <DataSprzedazy>2018-01-18</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>36</LpSprzedazy>
+    <NrKontrahenta>3931514831</NrKontrahenta>
+    <NazwaKontrahenta>vcjexndr.1ki</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 34 60688 Poznań</AdresKontrahenta>
+    <DowodSprzedazy>36/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-18</DataWystawienia>
+    <DataSprzedazy>2018-01-18</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>32.52</K_19>
+    <K_20>7.48</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>37</LpSprzedazy>
+    <NrKontrahenta>8997603271</NrKontrahenta>
+    <NazwaKontrahenta>xxwg125d.ms2</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 1 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>37/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-18</DataWystawienia>
+    <DataSprzedazy>2018-01-18</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>38</LpSprzedazy>
+    <NrKontrahenta>0748223853</NrKontrahenta>
+    <NazwaKontrahenta>xgufnx05.swi</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 14 87134 Rozgarty</AdresKontrahenta>
+    <DowodSprzedazy>38/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-20</DataWystawienia>
+    <DataSprzedazy>2018-01-20</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>28.46</K_19>
+    <K_20>6.55</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>39</LpSprzedazy>
+    <NrKontrahenta>6274081531</NrKontrahenta>
+    <NazwaKontrahenta>vqadxowd.0rt</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 24 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>39/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-22</DataWystawienia>
+    <DataSprzedazy>2018-01-22</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>40</LpSprzedazy>
+    <NrKontrahenta>8540100593</NrKontrahenta>
+    <NazwaKontrahenta>gtdqdgq1.31m</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 3 87103 Mała Nieszawka</AdresKontrahenta>
+    <DowodSprzedazy>40/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-23</DataWystawienia>
+    <DataSprzedazy>2018-01-23</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>70.73</K_19>
+    <K_20>16.27</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>41</LpSprzedazy>
+    <NrKontrahenta>5582332166</NrKontrahenta>
+    <NazwaKontrahenta>ua3l2uqq.xf0</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 92 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>41/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-24</DataWystawienia>
+    <DataSprzedazy>2018-01-24</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>56.91</K_19>
+    <K_20>13.09</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>42</LpSprzedazy>
+    <NrKontrahenta>1591995745</NrKontrahenta>
+    <NazwaKontrahenta>yhgb2yjz.qzp</NazwaKontrahenta>
+    <AdresKontrahenta> XX 87125 Osiek nad Wisłą</AdresKontrahenta>
+    <DowodSprzedazy>42/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-24</DataWystawienia>
+    <DataSprzedazy>2018-01-24</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>56.91</K_19>
+    <K_20>13.09</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>43</LpSprzedazy>
+    <NrKontrahenta>1395088285</NrKontrahenta>
+    <NazwaKontrahenta>uph0ftxj.xdl</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 73 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>43/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-25</DataWystawienia>
+    <DataSprzedazy>2018-01-25</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>44</LpSprzedazy>
+    <NrKontrahenta>4529345926</NrKontrahenta>
+    <NazwaKontrahenta>lv0vuog2.ckl</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 7 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>44/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-25</DataWystawienia>
+    <DataSprzedazy>2018-01-25</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>32.52</K_19>
+    <K_20>7.48</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>45</LpSprzedazy>
+    <NrKontrahenta>2638384984</NrKontrahenta>
+    <NazwaKontrahenta>xav2cijc.asz</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 13 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>45/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-25</DataWystawienia>
+    <DataSprzedazy>2018-01-25</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>32.52</K_19>
+    <K_20>7.48</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>47</LpSprzedazy>
+    <NrKontrahenta>0764962462</NrKontrahenta>
+    <NazwaKontrahenta>q3gnsfim.auc</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 16 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>47/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-26</DataWystawienia>
+    <DataSprzedazy>2018-01-26</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>56.91</K_19>
+    <K_20>13.09</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>48</LpSprzedazy>
+    <NrKontrahenta>3491526526</NrKontrahenta>
+    <NazwaKontrahenta>smxbvkh5.bm4</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 13C 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>48/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-26</DataWystawienia>
+    <DataSprzedazy>2018-01-26</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>49</LpSprzedazy>
+    <NrKontrahenta>1279413276</NrKontrahenta>
+    <NazwaKontrahenta>npbufcae.zas</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Krucza 33 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>49/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-27</DataWystawienia>
+    <DataSprzedazy>2018-01-27</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>50</LpSprzedazy>
+    <NrKontrahenta>0269362283</NrKontrahenta>
+    <NazwaKontrahenta>iesedprl.eaw</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 1C 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>50/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-27</DataWystawienia>
+    <DataSprzedazy>2018-01-27</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>40.65</K_19>
+    <K_20>9.35</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>51</LpSprzedazy>
+    <NrKontrahenta>1693879506</NrKontrahenta>
+    <NazwaKontrahenta>y10rerrz.ojn</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 1 87148 Łysomice</AdresKontrahenta>
+    <DowodSprzedazy>51/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-27</DataWystawienia>
+    <DataSprzedazy>2018-01-27</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>56.91</K_19>
+    <K_20>13.09</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>52</LpSprzedazy>
+    <NrKontrahenta>4759784421</NrKontrahenta>
+    <NazwaKontrahenta>rjstc3of.ddy</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 12 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>52/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-29</DataWystawienia>
+    <DataSprzedazy>2018-01-29</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>53</LpSprzedazy>
+    <NrKontrahenta>0287060393</NrKontrahenta>
+    <NazwaKontrahenta>ri3n24sm.dr3</NazwaKontrahenta>
+    <AdresKontrahenta> XX 88140 Zajezierze</AdresKontrahenta>
+    <DowodSprzedazy>53/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-30</DataWystawienia>
+    <DataSprzedazy>2018-01-30</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>36.59</K_19>
+    <K_20>8.42</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>54</LpSprzedazy>
+    <NrKontrahenta>6704678319</NrKontrahenta>
+    <NazwaKontrahenta>4xguq2kb.c32</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 15 62090 Rokietnica</AdresKontrahenta>
+    <DowodSprzedazy>54/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-31</DataWystawienia>
+    <DataSprzedazy>2018-01-31</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>55</LpSprzedazy>
+    <NrKontrahenta>8159330024</NrKontrahenta>
+    <NazwaKontrahenta>2gdeqi3w.l0x</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 73A 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>55/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-31</DataWystawienia>
+    <DataSprzedazy>2018-01-31</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>54.47</K_19>
+    <K_20>12.53</K_20>
+  </SprzedazWiersz>
+  <SprzedazWiersz typ="G">
+    <LpSprzedazy>57</LpSprzedazy>
+    <NrKontrahenta>6222709773</NrKontrahenta>
+    <NazwaKontrahenta>1wtrlaad.urk</NazwaKontrahenta>
+    <AdresKontrahenta>ul. Test-Wilcza 73A 87100 Toruń</AdresKontrahenta>
+    <DowodSprzedazy>57/01/2018/P</DowodSprzedazy>
+    <DataWystawienia>2018-01-31</DataWystawienia>
+    <DataSprzedazy>2018-01-31</DataSprzedazy>
+    <K_14>0</K_14>
+    <K_19>28.46</K_19>
+    <K_20>6.55</K_20>
+  </SprzedazWiersz>
+  <SprzedazCtrl>
+    <LiczbaWierszySprzedazy>57</LiczbaWierszySprzedazy>
+    <PodatekNalezny>690.85</PodatekNalezny>
+  </SprzedazCtrl>
+</JPK>
