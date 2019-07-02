@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Dokumenty
+namespace Documents
 {
 	internal sealed class Dokument
 	{
