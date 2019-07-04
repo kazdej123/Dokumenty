@@ -52,7 +52,7 @@ namespace Documents
 										GetContent(root, "NrKontrahenta"),
 										GetContent(root, "NazwaKontrahenta"),
 										GetContent(root, "DowodSprzedazy"),
-										DateTime.Parse(GetContent(root, "DataWystawienia")),
+										ParseDateTime(GetContent(root, "DataWystawienia")),
 										GetContentAsDecimal(root, "K_14")
 										+ GetContentAsDecimal(root, "K_19")
 										+ GetContentAsDecimal(root, "K_20")));
@@ -60,7 +60,70 @@ namespace Documents
 							}
 						}
 					} else {
-						// TODO
+						using (var streamReader = new StreamReader(fileName)) {
+							string numerKontrahenta = default;
+							string nazwaKontrahenta = default;
+							string numerDokumentu = default;
+							DateTime dataDokumentu = default;
+							decimal wartoscDokumentu = default;
+
+							bool kon, fs, vat, pla;
+							kon = fs = vat = pla = false;
+
+							var linesCounter = 1;
+							for (string line; (line = streamReader.ReadLine()) != null; linesCounter++) {
+								using (var stringReader = new StringReader(line)) {
+									var fieldsList = new StringList();
+
+									for (string field; (field = NextField(stringReader, linesCounter)) != null;) {
+										fieldsList.Add(field);
+									}
+									if (fieldsList.Count == 0) {
+										fieldsList.Add(null);
+									}
+									try {
+										switch (fieldsList[0]) {
+											case "KON":
+												numerKontrahenta = fieldsList[2];
+												nazwaKontrahenta = fieldsList[3];
+												kon = true;
+												break;
+
+											case "FS":
+												numerDokumentu = fieldsList[3];
+												dataDokumentu = ParseDateTime(fieldsList[2]);
+												fs = true;
+												break;
+
+											case "VAT":
+												vat = true;
+												break;
+
+											case "PLA":
+												wartoscDokumentu = ParseDecimal(fieldsList[4]);
+												pla = true;
+												break;
+
+											default:
+												if (fieldsList[0] != null) {
+													ThrowIncorrectFileException(linesCounter);
+												}
+												break;
+										}
+										if (kon && fs && vat && pla) {
+											documentsList.Add(new Document(numerKontrahenta,
+																		   nazwaKontrahenta,
+																		   numerDokumentu,
+																		   dataDokumentu,
+																		   wartoscDokumentu));
+											kon = fs = vat = pla = false;
+										}
+									} catch (ArgumentOutOfRangeException) {
+										ThrowIncorrectFileException(linesCounter);
+									}
+								}
+							}
+						}
 					}
 				} catch (Exception e) {
 					WriteFileError(fileName, e.Message);
@@ -83,10 +146,50 @@ namespace Documents
 		private static string GetExtension(string fileName) => Path.GetExtension(fileName);
 
 		private static decimal GetContentAsDecimal(XmlNode xmlNode, string elementName)
-			=> decimal.Parse(GetContent(xmlNode, elementName),
-							 System.Globalization.NumberFormatInfo.InvariantInfo);
+			=> ParseDecimal(GetContent(xmlNode, elementName));
 
 		private static string GetContent(XmlNode xmlNode, string elementName)
 			=> xmlNode[elementName].InnerText;
+
+		private static decimal ParseDecimal(string str)
+			=> decimal.Parse(str, System.Globalization.NumberFormatInfo.InvariantInfo);
+
+		private static DateTime ParseDateTime(string str) => DateTime.Parse(str);
+
+		private static string NextField(StringReader reader, int lineNumber)
+		{
+			const char quotationMark = '"';
+			const char semicolon = ';';
+			const int endOfLine = -1;
+
+			var field = "";
+			var c = reader.Read();
+			switch (c) {
+				case quotationMark:
+					while ((c = reader.Read()) != quotationMark) {
+						if (c == endOfLine) {
+							ThrowIncorrectFileException(lineNumber);
+						}
+						field += (char)c;
+					}
+					while ((c = reader.Read()) != semicolon && c != endOfLine) { }
+					return field;
+
+				case semicolon:
+					return field;
+
+				case endOfLine:
+					return null;
+
+				default:
+					do {
+						field += (char)c;
+					} while ((c = reader.Read()) != semicolon && c != endOfLine);
+					return field;
+			}
+		}
+
+		private static void ThrowIncorrectFileException(int lineNumber)
+			=> throw new Exception("Zle sformatowany plik w wierszu " + lineNumber + ".");
 	}
 }
