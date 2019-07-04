@@ -2,11 +2,11 @@
 
 namespace Documents
 {
-	internal sealed class Dokument
+	internal sealed class Document
 	{
 		private static readonly string _separator = "; ";
 
-		internal Dokument(string numerKontrahenta, string nazwaKontrahenta, string numerDokumentu,
+		internal Document(string numerKontrahenta, string nazwaKontrahenta, string numerDokumentu,
 						  DateTime dataDokumentu, decimal wartoscDokumentu)
 		{
 			NumerKontrahenta = numerKontrahenta;

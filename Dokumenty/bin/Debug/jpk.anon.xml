@@ -37,26 +37,26 @@
   <SprzedazWiersz typ="G">
     <LpSprzedazy>2</LpSprzedazy>
     <NrKontrahenta>6280938710</NrKontrahenta>
-    <NazwaKontrahenta>13d1fmsn.z0i</NazwaKontrahenta>
     <AdresKontrahenta>ul. Test-Wilcza 6B 87100 Toruń</AdresKontrahenta>
     <DowodSprzedazy>2/01/2018/P</DowodSprzedazy>
     <DataWystawienia>2018-01-02</DataWystawienia>
     <DataSprzedazy>2018-01-02</DataSprzedazy>
     <K_14>0</K_14>
+	<NazwaKontrahenta>13d1fmsn.z0i</NazwaKontrahenta>
     <K_19>125.2</K_19>
     <K_20>28.8</K_20>
   </SprzedazWiersz>
   <SprzedazWiersz typ="G">
+	<K_14>0</K_14>
     <LpSprzedazy>3</LpSprzedazy>
-    <NrKontrahenta>6607516275</NrKontrahenta>
     <NazwaKontrahenta>a2fpobmb.y5c</NazwaKontrahenta>
     <AdresKontrahenta>ul. Test-Wilcza 3C 87100 Toruń</AdresKontrahenta>
     <DowodSprzedazy>3/01/2018/P</DowodSprzedazy>
     <DataWystawienia>2018-01-02</DataWystawienia>
     <DataSprzedazy>2018-01-02</DataSprzedazy>
-    <K_14>0</K_14>
     <K_19>54.47</K_19>
     <K_20>12.53</K_20>
+	<NrKontrahenta>6607516275</NrKontrahenta>
   </SprzedazWiersz>
   <SprzedazWiersz typ="G">
     <LpSprzedazy>4</LpSprzedazy>
